@@ -1,0 +1,6 @@
+# Archivos temporales de Office (se crean al abrir un .pptx o .docx)
+~$*
+
+# Checkpoints y cache de Jupyter
+.ipynb_checkpoints/
+__pycache__/
